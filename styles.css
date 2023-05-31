@@ -1,0 +1,221 @@
+.login-form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.login-form label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.login-form input[type="text"],
+.login-form input[type="password"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.login-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.login-form button:hover {
+    background-color: #0056b3;
+}
+
+
+
+
+/* Define CSS styles for the Registration Form */
+.registration-form {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.registration-form label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.registration-form input[type="text"],
+.registration-form input[type="email"],
+.registration-form input[type="password"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.registration-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.registration-form button:hover {
+    background-color: #0056b3;
+}
+
+.registration-form label input[type="checkbox"] {
+    margin-top: 5px;
+}
+
+/* Define CSS styles for the Forget Password Form */
+.forget-password-form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.forget-password-form label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.forget-password-form input[type="email"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.forget-password-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.forget-password-form button:hover {
+    background-color: #0056b3;
+}
+
+/* Define CSS styles for the New Permit Application Form */
+.new-permit-form {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.new-permit-form label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.new-permit-form input[type="text"],
+.new-permit-form input[type="date"],
+.new-permit-form textarea {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.new-permit-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.new-permit-form button:hover {
+    background-color: #0056b3;
+}
+
+/* Define CSS styles for the Butterfly List */
+.butterfly-list {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.butterfly-list th,
+.butterfly-list td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.butterfly-list th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+.butterfly-list td {
+    text-align: center;
+}
+
+.butterfly-list tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.butterfly-list tr:hover {
+    background-color: #eaeaea;
+}
+
+/* Define CSS styles for the Permit Status Update Form */
+.permit-status-form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.permit-status-form label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.permit-status-form input[type="text"],
+.permit-status-form select {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.permit-status-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.permit-status-form button:hover {
+    background-color: #0056b3;
+}
+
